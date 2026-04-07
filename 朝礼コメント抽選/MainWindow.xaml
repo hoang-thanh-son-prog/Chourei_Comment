@@ -4,16 +4,9 @@
         Title="朝礼コメント抽選" Height="280" Width="450" 
         WindowStartupLocation="CenterScreen" Background="#F5F6FA">
     <Grid>
-        <StackPanel VerticalAlignment="Center">
-            <TextBlock Text="今日のコメント方" FontSize="30" HorizontalAlignment="Center" Foreground="#7F8C8D"/>
-            <TextBlock Name="txtName" Text="氏名" FontSize="50" FontWeight="Bold" 
-                       HorizontalAlignment="Center" Margin="15" Foreground="#2C3E50"/>
-            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
-                <Button Content="休み (Yasumi)" Click="BtnYasumi_Click" Width="140" Height="55" Margin="10" 
-                        Background="#FF7675" Foreground="White" FontWeight="Bold"/>
-                <Button Content="確定 (OK)" Click="BtnConfirm_Click" Width="140" Height="55" Margin="10" 
-                        Background="#55E6C1" Foreground="White" FontWeight="Bold"/>
-            </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+            <Button Content="抽選" Click="BtnRandom_Click" Width="140" Height="55" Margin="10" 
+                        Background="#7fce43" Foreground="White" FontWeight="Bold"/>
         </StackPanel>
     </Grid>
 </Window>

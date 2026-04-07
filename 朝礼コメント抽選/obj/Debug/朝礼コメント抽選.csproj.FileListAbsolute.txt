@@ -1,0 +1,16 @@
+C:\Users\hoang-thanh-son\Desktop\Chourei_Comment\朝礼コメント抽選\bin\Debug\朝礼コメント抽選.exe.config
+C:\Users\hoang-thanh-son\Desktop\Chourei_Comment\朝礼コメント抽選\bin\Debug\朝礼コメント抽選.exe
+C:\Users\hoang-thanh-son\Desktop\Chourei_Comment\朝礼コメント抽選\bin\Debug\朝礼コメント抽選.pdb
+C:\Users\hoang-thanh-son\Desktop\Chourei_Comment\朝礼コメント抽選\obj\Debug\朝礼コメント抽選.csproj.AssemblyReference.cache
+C:\Users\hoang-thanh-son\Desktop\Chourei_Comment\朝礼コメント抽選\obj\Debug\MainWindow.baml
+C:\Users\hoang-thanh-son\Desktop\Chourei_Comment\朝礼コメント抽選\obj\Debug\MainWindow.g.cs
+C:\Users\hoang-thanh-son\Desktop\Chourei_Comment\朝礼コメント抽選\obj\Debug\App.g.cs
+C:\Users\hoang-thanh-son\Desktop\Chourei_Comment\朝礼コメント抽選\obj\Debug\朝礼コメント抽選_MarkupCompile.cache
+C:\Users\hoang-thanh-son\Desktop\Chourei_Comment\朝礼コメント抽選\obj\Debug\朝礼コメント抽選.g.resources
+C:\Users\hoang-thanh-son\Desktop\Chourei_Comment\朝礼コメント抽選\obj\Debug\朝礼コメント抽選.Properties.Resources.resources
+C:\Users\hoang-thanh-son\Desktop\Chourei_Comment\朝礼コメント抽選\obj\Debug\朝礼コメント抽選.csproj.GenerateResource.cache
+C:\Users\hoang-thanh-son\Desktop\Chourei_Comment\朝礼コメント抽選\obj\Debug\朝礼コメント抽選.csproj.CoreCompileInputs.cache
+C:\Users\hoang-thanh-son\Desktop\Chourei_Comment\朝礼コメント抽選\obj\Debug\朝礼コメント抽選.exe
+C:\Users\hoang-thanh-son\Desktop\Chourei_Comment\朝礼コメント抽選\obj\Debug\朝礼コメント抽選.pdb
+C:\Users\hoang-thanh-son\Desktop\Chourei_Comment\朝礼コメント抽選\obj\Debug\Result.baml
+C:\Users\hoang-thanh-son\Desktop\Chourei_Comment\朝礼コメント抽選\obj\Debug\Result.g.cs
